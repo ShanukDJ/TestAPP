@@ -1,0 +1,4 @@
+#Mon Jan 25 16:36:56 IST 2021
+base.0=F\:\\TEST\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
